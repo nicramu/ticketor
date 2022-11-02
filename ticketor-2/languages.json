@@ -1,0 +1,194 @@
+{
+	"af": [
+		"afr",
+		"Afrikaans"
+	],
+	"ar": [
+		"ara",
+		"Arabic"
+	],
+	"be": [
+		"bel",
+		"Belarusian"
+	],
+	"bg": [
+		"bul",
+		"Bulgarian"
+	],
+	"cs": [
+		"cze/ces",
+		"Czech"
+	],
+	"cy": [
+		"wel/cym",
+		"Welsh"
+	],
+	"da": [
+		"dan",
+		"Danish"
+	],
+	"de": [
+		"ger/deu",
+		"German"
+	],
+	"el": [
+		"gre/ell",
+		"Greek, Modern (1453-)"
+	],
+	"en": [
+		"eng",
+		"English"
+	],
+	"es": [
+		"spa",
+		"Castilian/Spanish"
+	],
+	"et": [
+		"est",
+		"Estonian"
+	],
+	"fa": [
+		"per/fas",
+		"Persian"
+	],
+	"fi": [
+		"fin",
+		"Finnish"
+	],
+	"fr": [
+		"fre/fra",
+		"French"
+	],
+	"ga": [
+		"gle",
+		"Irish"
+	],
+	"gd": [
+		"gla",
+		"Gaelic/Scottish Gaelic"
+	],
+	"he": [
+		"heb",
+		"Hebrew"
+	],
+	"hi": [
+		"hin",
+		"Hindi"
+	],
+	"hr": [
+		"hrv",
+		"Croatian"
+	],
+	"hu": [
+		"hun",
+		"Hungarian"
+	],
+	"hy": [
+		"arm/hye",
+		"Armenian"
+	],
+	"id": [
+		"ind",
+		"Indonesian"
+	],
+	"is": [
+		"ice/isl",
+		"Icelandic"
+	],
+	"it": [
+		"ita",
+		"Italian"
+	],
+	"ja": [
+		"jpn",
+		"Japanese"
+	],
+	"ka": [
+		"geo/kat",
+		"Georgian"
+	],
+	"kg": [
+		"kon",
+		"Kongo"
+	],
+	"ko": [
+		"kor",
+		"Korean"
+	],
+	"lt": [
+		"lit",
+		"Lithuanian"
+	],
+	"lv": [
+		"lav",
+		"Latvian"
+	],
+	"mk": [
+		"mac/mkd",
+		"Macedonian"
+	],
+	"mn": [
+		"mon",
+		"Mongolian"
+	],
+	"nl": [
+		"dut/nld",
+		"Dutch"
+	],
+	"no": [
+		"nor",
+		"Norwegian"
+	],
+	"pl": [
+		"pol",
+		"Polish"
+	],
+	"pt": [
+		"por",
+		"Portuguese"
+	],
+	"ro": [
+		"rum/ron",
+		"Romanian/Moldavian/Moldovan"
+	],
+	"ru": [
+		"rus",
+		"Russian"
+	],
+	"sl": [
+		"slv",
+		"Slovenian"
+	],
+	"sq": [
+		"alb/sqi",
+		"Albanian"
+	],
+	"sr": [
+		"srp",
+		"Serbian"
+	],
+	"sv": [
+		"swe",
+		"Swedish"
+	],
+	"sw": [
+		"swa",
+		"Swahili"
+	],
+	"tr": [
+		"tur",
+		"Turkish"
+	],
+	"uk": [
+		"ukr",
+		"Ukrainian"
+	],
+	"vi": [
+		"vie",
+		"Vietnamese"
+	],
+	"zh": [
+		"chi/zho",
+		"Chinese"
+	]
+}
